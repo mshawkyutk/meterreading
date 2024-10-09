@@ -10,4 +10,4 @@ It will then go through each printer IP listed and check for its print reading, 
 
 # Considerations
 
-This script works for both color and black and white printers, and checks if they are offline. If a printer is black and white only, it will fill "N/A" in the Color section of the meterreads.txt file for continuity purposes. If a printer is offline, that specific printer will read "OFFLINE" in the meter reading to notify the user that it is down.
+This script works for both color and black and white printers, and checks if they are offline. If a printer is black and white only, it will fill    "N/A" in the Color section of the meterreads.txt file for continuity purposes. If a printer is offline, that specific printer will read "OFFLINE" in the meter reading to notify the user that it is down.
